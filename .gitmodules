@@ -1,3 +1,6 @@
 [submodule "hardware"]
 	path = hardware
 	url = https://github.com/yexiyue/SmartBriteHardware.git
+[submodule "desktop"]
+	path = desktop
+	url = git@github.com:yexiyue/SmartBriteDesktop.git
